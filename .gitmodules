@@ -1,0 +1,6 @@
+[submodule "amphi-server"]
+	path = amphi-server
+	url = git@github.com:tinkhaven/amphi-server.git
+[submodule "amphi-client"]
+	path = amphi-client
+	url = git@github.com:tinkhaven/amphi-client.git
